@@ -73,9 +73,6 @@ The project was developed incrementally following these key steps:
 - **Debugging in Simulation:** Interpreting waveform data and combining it with textual debug output was key to identifying subtle bugs.
 - **Modular Design:** Balancing clarity and modularity in Verilog coding to keep the design maintainable was a continuous focus.
 
----
-
-Feel free to customize or expand this README based on your preferences or additional project details. If you want, I can help you generate a ready-to-commit `README.md` file text that you can directly push to your repo. Just say!
 
 
 <img width="2304" height="1182" alt="image" src="https://github.com/user-attachments/assets/2f579757-cc70-46eb-bfc2-e6c40ae4cea8" />
